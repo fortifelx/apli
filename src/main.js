@@ -1,8 +1,8 @@
 // The Vue build version to load with the `import` command
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 
-require('../bootstrap4/css/bootstrap.min.css')
-require('../bootstrap4/css/style.module.scss')
+require('../style/css/bootstrap.min.css')
+require('../style/css/style.scss')
 //import style from '../bootstrap4/css/style.module.scss'
 //require('../src/assets/style/open-iconic-bootstrap.scss')
 
